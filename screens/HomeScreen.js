@@ -1,6 +1,6 @@
 import * as React from 'react';
 import {View, Text, StyleSheet, SafeAreaView, TouchableOpacity, Image,
-ImageBackground, Platform} from 'react-native';
+ImageBackground, Platform, StatusBar} from 'react-native';
 
 export default class HomeScreen extends React.Component{
     render(){
